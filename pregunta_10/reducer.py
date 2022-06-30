@@ -25,3 +25,27 @@ if __name__ == "__main__":
         y = sorted(y, key=int)
         y = ",".join(str(x) for x in y)
         sys.stdout.write("{}\t{}\n".format(x, y))
+
+if __name__ == '__main__':
+    lista=[]
+    table_join = {}
+    
+    for line in sys.stdin:
+        key, val =line.split('\t')
+        
+
+
+
+        
+    
+        
+
+        
+        #sys.stdout.write('{}\t{}\n'.format(key, val))
+            
+    
+    
+    
+        
+        
+        
